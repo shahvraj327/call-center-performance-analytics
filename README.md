@@ -23,7 +23,7 @@ A customer call center needed one view of call volume, sales, representative per
 |:---:|:---:|
 | ![Representative Performance](assets/representative_performance.png) | ![Satisfaction by City](assets/satisfaction_by_city.png) |
 
-The full interactive dashboard is in `Call_Center_Analysis_Project.xlsx` (Dashboard sheet), with a slicer to filter every view by representative.
+The full interactive dashboard is in `project-file` (Dashboard sheet), with a slicer to filter every view by representative.
 
 ---
 
